@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coursera-react-basics-build-a-calculator-app/static/css/main.4ee91bd1.css",
+    "main.js": "/coursera-react-basics-build-a-calculator-app/static/js/main.259809e7.js",
+    "index.html": "/coursera-react-basics-build-a-calculator-app/index.html",
+    "main.4ee91bd1.css.map": "/coursera-react-basics-build-a-calculator-app/static/css/main.4ee91bd1.css.map",
+    "main.259809e7.js.map": "/coursera-react-basics-build-a-calculator-app/static/js/main.259809e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee91bd1.css",
+    "static/js/main.259809e7.js"
+  ]
+}
